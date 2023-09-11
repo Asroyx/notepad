@@ -22,4 +22,4 @@ This is a simple notepad application developed using Qt and C++. It provides bas
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/qt-notepad.git
+   git clone https://github.com/Asroyx/notepad.git
